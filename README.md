@@ -4,7 +4,7 @@
 The course exposes 1st year students to the main concepts of programming and problem solving with computers. We introduce C, a classic, powerful procedural programming language. The course includes a mandatory lab in which participants apply in practice – in a series of exercises – the material taught in class in order to familiarize themselves with the concepts and techniques.
 After successfully fulfilling the requirements of the course, the student is capable of:
 
-->  Analyzing the requirements of problems which are to be solved with a computer and synthesizing a solution.
+->  Analyzing the requirements of problems which are to be solved with a computer and synthesizing a solution. <br>
 ->  Producing solutions which strictly comply with given specifications.
 ->  Knowing the main characteristics and structures of the C programming language and applying the most appropriate on a case-by-case basis to implement his/her algorithmic solutions.
 ->  Applying the basic principles of software engineering in order to organize his/her code efficiently (structure, readability, design).
