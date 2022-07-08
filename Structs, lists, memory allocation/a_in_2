@@ -1,0 +1,32 @@
+a 3 Walter_H_Ava 20
+a 10 Boyett_S_Al 13                                                             
+a 11 Scott_N_Lewis 38                                                           
+a 989 Crooms_H_Carmelina 38                                                     
+a 16 Peterson_L_Herman 29                                                       
+a 17 Hughey_S_Carl 30                                                           
+a 27 Barker_H_Emma 43                                                           
+a 45 Burne_C_Dean 4                                                             
+a 52 Hill_G_Leona 14  
+g Barker_H_Emma 100
+g Walter_H_Ava 100
+g Hughey_S_Carl 200
+g Hughey_S_Carl 500
+g Hughey_S_Carl 300
+g Hughey_S_Carl 100
+g Hughey_S_Carl 600
+g Hughey_S_Carl 600
+g Hughey_S_Carl 500
+g Hughey_S_Carl 100
+g Hill_G_Leona 100
+g Webster_M_Danielle 300
+p
+i Barker_H_Emma 100
+i Walter_H_Ava  200
+i Hughey_S_Carl 600
+i Webster_M_Danielle 300
+l Barker_H_Emma                                                                 
+l Walter_H_Ava                                                                  
+l Hughey_S_Carl                                                                 
+l Webster_M_Danielle                                                            
+l Johnston_P_Eden 
+q

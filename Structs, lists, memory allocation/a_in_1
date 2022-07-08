@@ -1,0 +1,39 @@
+a 1 Chandler_H_Charles 18
+a 2 Sinclair_O_Micah 42
+a 3 WALTER_H_AVA 20
+a 4 Gibson_A_Sofia 17
+a 5 Shane_R_Eleanor 3
+a 6 Mcgrath_L_William 41
+a 	  	7 Sasse_S_Xavier 34
+a 	  	 8 Benitez_J_Mary 36
+a 9 Chandler_H_Charles 23
+a    8 Benitez_J_Mari 34
+a 9 Maruff_C_Leo 11		
+a 10 Boyett_S_Al 13                                                             
+a 11 Scott_N_Lewis 		  38                                                           
+a 12   Chivers_S_Mike 43 
+a   13 Kalanadhabhatta_Satya_Siva_Srikrishnaanjaneya_Arun_Surya_Sastry 6
+p
+m Benitez_j_Mary 15
+m Gibson_A_Sofia 9
+m Chandler_H_Charles 12
+f Benitez_J_Mary
+f chandler_c_charles
+f Walter_H_Ava
+r Maruff_C_Leo 
+r Mcgrath_L_William
+r shane_r_eleanor
+r Chandler_H_Charles
+f Maruff_C_Leo 
+f Chandler_H_Charles
+f Walter_H_Ava
+f Sasse_S_Xavier
+f BARKER_H_EMMA
+f ANTHONY_P_ERNEST
+f WHITE_J_AALIYAH
+f WALKER_K_ELLA
+f Kalanadhabhatta_Satya_Siva_Srikrishnaanjaneya_Arun_Surya_Sastry
+p
+c
+p
+q
